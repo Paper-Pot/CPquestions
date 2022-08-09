@@ -22,6 +22,7 @@ S contains only lowercase English letters
 */
 
 #include <iostream>
+#include <stdio.h>
 using namespace std;
 
 bool checkZero(int* arr){
