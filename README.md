@@ -1,6 +1,7 @@
 # CPquestions
 
-## _Conatains Question regarding competetive coding from CodeChef_
+Just a Beginner solving the Problem on the site.
+## Contains Question regarding Competetive Coding from CodeChef
 
 Files re regularly pushed. 
 
@@ -11,3 +12,5 @@ Files re regularly pushed.
 - Arrays
 - Stacks
 - Linked-list
+
+## Visit [My Profile](https://www.codechef.com/users/banerjeerhitam) on [CodeChef](https://www.codechef.com/)
