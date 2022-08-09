@@ -66,4 +66,6 @@ int main() {
 
     eg: if s[i] = a; ASCII for a is 97 so we substract 97 to get the index i.e. 0 and hence incrementing or
         decrement val at index 0 by 1; then we check if all elements in array are zero we print YES else NO.
+	
+  Time Complexity: O(n)
 */
