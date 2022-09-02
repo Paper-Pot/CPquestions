@@ -3,7 +3,7 @@
 Just a Beginner solving the Problem on the site.
 ## Contains Question regarding Competetive Coding from CodeChef
 
-Files re regularly pushed. 
+Files are regularly pushed. 
 
 ## Topics regarding the problems are -
 - Bit manipulation
@@ -12,5 +12,7 @@ Files re regularly pushed.
 - Arrays
 - Stacks
 - Linked-list
+- Recursion
+- Binary Search
 
 ## Visit [My Profile](https://www.codechef.com/users/banerjeerhitam) on [CodeChef](https://www.codechef.com/)
