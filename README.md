@@ -14,5 +14,6 @@ Files are regularly pushed.
 - Linked-list
 - Recursion
 - Binary Search
+- Vectors
 
 ## Visit [My Profile](https://www.codechef.com/users/banerjeerhitam) on [CodeChef](https://www.codechef.com/)
